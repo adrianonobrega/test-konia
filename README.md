@@ -1,5 +1,18 @@
 # Exercicio 1
 
+## 🚀 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+- .Net6
+- C#
+
+
+## 🛠 Instalação
+
+<h4> 📁📁 Clone este repositório<h4/>
+  ## Coloque a string de conexão com o seu banco de dados sqlserver na variavel DatabaseString no arquivo Program.cs.
+  Rode update-database para rodar as migrações no seu banco.
+  Obs - Comandos utilizados no visual stadio 2022
+
 #   Exercicio 2
 # ![image](https://user-images.githubusercontent.com/71836298/205188842-9bb9541e-c043-4c38-b817-c84c72485ee4.png)  Rodando o Backend(Python-Django)
 
