@@ -9,7 +9,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🛠 Instalação
 
 <h4> 📁📁 Clone este repositório<h4/>
-  ## Coloque a string de conexão com o seu banco de dados sqlserver na variavel DatabaseString no arquivo Program.cs.
+  
+  Coloque a string de conexão com o seu banco de dados sqlserver na variavel DatabaseString no arquivo Program.cs.
   Rode update-database para rodar as migrações no seu banco.
   Obs - Comandos utilizados no visual stadio 2022
 
