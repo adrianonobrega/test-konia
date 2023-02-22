@@ -12,6 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   
   Coloque a string de conexão com o seu banco de dados sqlserver na variavel DatabaseString no arquivo Program.cs. <br/>
   </br>
+  Rode add-migrations para criar as migrações no seu banco. </br>
   Rode update-database para rodar as migrações no seu banco. </br>
   Obs - Comandos utilizados no visual stadio 2022
 
